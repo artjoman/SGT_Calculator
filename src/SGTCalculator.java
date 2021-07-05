@@ -20,5 +20,16 @@ public class SGTCalculator {
 
         // Variants 2+ should go below this line
 
+      //  18.Anastasija. 2*a + 3*b - x^2
+        //  a=7, b=2, x = 1.55
+        varA = 7;
+        varB = 2;
+        varX = 1.55;
+
+        result = 2*varA + 3*varB - Math.pow(varX,2);
+        System.out.println("Variant 18. Anastasija.");
+        System.out.println(result);
+
+
     }
 }
