@@ -18,15 +18,6 @@ public class SGTCalculator {
         System.out.println("Variant 1. Artjoms P.");
         System.out.println(result);
 
-        // Variants 2+ should go below this line
-        // Oxana's variant - 20.Oksana. 5*a - 3*b + c^7 - x | a=6, b=4, c=2, x=1.15
-        varA = 6;
-        varB = 4;
-        varC = 2;
-        varX = 1.15;
-        result = (5*varA - 3*varB + Math.pow(varC,7) - varX);
-        System.out.println("Variant 2+. Oxana B.");
-        System.out.println(result);
 
     }
 }
