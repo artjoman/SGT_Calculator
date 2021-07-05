@@ -4,7 +4,7 @@ public class SGTCalculator {
 
         // Define variables
         int varA, varB, varC;
-        double varX, VarY, varZ;
+        double varX, varY, varZ;
         double result;
 
         // Variant 1. Artjoms P.
@@ -25,9 +25,9 @@ public class SGTCalculator {
         varA = 5;
         varB = 1;
         varX = 7.01;
-        VarY = 3;
+        varY = 3;
 
-        result = 7*varA + 12.5*varB + varX + 5*VarY ;
+        result = 7*varA + 12.5*varB + varX + 5*varY ;
         System.out.println("Variant 15. Sabine K.");
         System.out.println(result);
 
