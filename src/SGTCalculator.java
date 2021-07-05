@@ -19,6 +19,6 @@ public class SGTCalculator {
         System.out.println(result);
 
         // Variants 2+ should go below this line
-
+        // Some additional variant
     }
 }
