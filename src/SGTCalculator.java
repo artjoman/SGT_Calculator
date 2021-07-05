@@ -20,6 +20,5 @@ public class SGTCalculator {
 
         // Variants 2+ should go below this line
 
-
     }
 }
