@@ -20,5 +20,16 @@ public class SGTCalculator {
 
         // Variants 2+ should go below this line
 
+        //15.Sabine. 7*a + 12.5*b + x +5*y | a=5, b=1, x=7.01, y=3
+
+        varA = 5;
+        varB = 1;
+        varX = 7.01;
+        VarY = 3;
+
+        result = 7*varA + 12.5*varB + varX + 5*VarY ;
+        System.out.println("Variant 15. Sabine K.");
+        System.out.println(result);
+
     }
 }
