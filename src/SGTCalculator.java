@@ -42,6 +42,14 @@ public class SGTCalculator {
         System.out.println("Variant 6. Kristine.");
 
         // Variants 2+ should go below this line
+
+        // Variant 5. Tatjana
+        // 9*a+sqrt(2*b)-c
+        // a = 7, b = 26, c = 16
+        varA = 7;
+        varB = 26;
+        varC = 16;
+
                 2*a + 3*b - x^2 |
                 a=7, b=2, x = 1.55
                 varA = 7;
@@ -94,5 +102,8 @@ public class SGTCalculator {
         System.out.println(result);
 
 
+        result = 9*varA + Math.sqrt(2*varB) - varC;
+        System.out.println("Variant 5. Tatjana");
+        System.out.println(result);
     }
 }
