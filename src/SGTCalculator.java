@@ -3,8 +3,8 @@ public class SGTCalculator {
     public static void main(String[] args) {
 
         // Define variables
-        int varA, varB, varC, varY;
-        double varX, VarY, varZ;
+        int varA, varB, varC;
+        double varX, varY, varZ;
         double result;
 
         // Variant 1. Artjoms P.
